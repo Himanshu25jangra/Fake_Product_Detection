@@ -1,8 +1,9 @@
 # Fake_Product_Detection
-This project uses QR code scaning to recognize fake products and returns the output.
+### Problem Statement:
+<p>Problem statement revolves around the need to accurate identify and differentiate between genuine and fake product to protect consumer from purchasing counterfeit goods safeguard brand reputation and enforce legal measures again counterfeiters.</p>
 
-# Working of Application
-<video src="https://github.com/Himanshu25jangra/Fake_Product_Detection/blob/main/Screen%20Shots/Fake%20product%20identification.mp4" width="800" height="400"></video>
+### Solution:
+Genuine product gain incorporate your code as a security feature these QR code can be unit to each product or batch making them difficult to replicate consumer can use their smartphone or detected scanning device to scan the QR code on a product the verification system linked to the QR code can quickly determine if the scan code corresponds to a genuine product.
 
 # Screenshots
 USER REGISTRATION
